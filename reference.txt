@@ -1,0 +1,10 @@
+New User Redirect
+* https://stackoverflow.com/questions/5676562/php-first-time-login-page
+* https://stackoverflow.com/questions/15090785/redirecting-to-a-new-page-after-successful-login/15090909
+* https://stackoverflow.com/questions/35891799/redirect-to-home-php-if-getid-is-invalid-or-empty
+
+New User Second Login
+*
+
+Time Limit
+* 
